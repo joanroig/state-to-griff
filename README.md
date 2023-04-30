@@ -1,6 +1,6 @@
 # State to griff
 
-Export Ample Sound's .griff files from .\*state files.
+Export Ample Sound's .griff files from .*state files to use them in the Riffer tool.
 
 Allows having the whole guitar riff collection in a single folder without the need of exporting them one by one for each instrument.
 
